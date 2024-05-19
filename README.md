@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Programming in the C language
 - 🤓 I’m looking to collaborate on Exercises from Ecole 42 
 - 😄 Pronouns: elle
-- ⚡ Fun fact:
+- ⚡ joke :
 
   "Do you know the joke about the guy who forgot to increment the variable in his while loop?"
   
